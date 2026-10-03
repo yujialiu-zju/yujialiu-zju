@@ -6,6 +6,22 @@ Here I'd like to share research findings, public interviews, and project retrosp
 
 ## Media Mentions | 媒体采访与引用
 
+### Dingjiao One | 定焦One
+
+**July 2026 · Quoted interviewee / 受访者**
+
+**Topic / 议题：** MiniMax: multimodal strategy and commercialization / MiniMax 的多模态战略与商业化
+
+**English summary of my comments:** My comments in Dingjiao One examined how markets value different AI business models and whether MiniMax can turn its multimodal capabilities and global products into a sustainable platform business. I proposed three tests for its multimodal strategy: cross-modal transfer, a unified model and training framework, and strong capabilities in each individual modality. My broader focus was whether models, products and user data can form a reinforcing cycle that supports commercialization and a developer ecosystem.
+
+**我的观点：** 讨论 MiniMax 与智谱估值分化背后的商业路径差异，以及模型、产品、数据能否形成正向循环；提出跨模态迁移、统一模型与训练框架、单项能力强度三个观察维度，分析多模态优势能否转化为商业化与平台价值。
+
+**Original article / 报道原题：** [4100亿跌到1000亿，MiniMax怎么了？](https://www.36kr.com/p/3883460428034313)
+
+*Published by Dingjiao One; republished with permission by 36Kr. Article in Chinese.*
+
+*定焦One原创，36氪经授权转载。*
+
 ### Economic Daily | 经济日报
 
 **August 2026 · Quoted interviewee / 受访者**
