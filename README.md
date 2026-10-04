@@ -33,3 +33,23 @@ Here I'd like to share research findings, public interviews, and project retrosp
 **我的观点：** 在经济日报关于未来产业发展的报道中，我谈到，部分地方过早设定远超实际的产值目标，与产业当前的发展阶段不匹配。
 
 [Read the article on Economic Daily (Chinese) / 经济日报原文](https://www.jingjiribao.cn/static/detail.jsp?id=673616) · [WeChat version / 微信版](https://mp.weixin.qq.com/s/vC2KxtHf3AGd2wU3DBtmoQ)
+
+## Industry Engagement | 行业参与与评审
+
+### Beijing Animation Festival 2026 | 2026 北京动画周
+
+**September 2026 · Judge, Project Pitching Events / 创投活动评审**
+
+Served on the evaluation panels for two project-pitching events at the 2026 Beijing Animation Festival, covering commercial animation projects and university-originated IP for film and television adaptation.
+
+参与 2026 北京动画周两场创投活动的评审工作，覆盖商业动画项目及高校原创 IP 影视化项目。
+
+**Events / 参与活动：**
+- Animation Project Investment Roadshow / 动画精品秋季创投路演大会
+- University IP Screen Adaptation Pitching Event / 高校IP影视化作品创投大会
+
+<img src="beijing-animation-festival-2026.jpg" alt="Networking at the 2026 Beijing Animation Festival / 北京动画周活动现场交流" width="640">
+
+*Networking at the event / 活动现场交流*
+
+[Event coverage by 首都广电 (Chinese) / 首都广电活动报道](https://xinwen.bjd.com.cn/content/s6abbb6e9d5def922be102775.html)
